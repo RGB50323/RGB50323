@@ -7,8 +7,9 @@
 - Conocido por mi proactividad, compromiso y responsabilidad en cada proyecto que emprendo.
 - Me considero una persona extrovertida, alegre y poder aprender en cada proyecto que me toque colaborar.
 - Mis áreas favoritas son el desarrollo full stack, trabajando tanto en frontend como backend, para el desarrollo de aplicaciones web y móviles.
-- # Mis proyectos
+- # Mis proyectos y Experiencia
 - Servidor y aplicativo web para Gestión de Denuncias y Documentos Jurídicos para el Consejo Superior de Salud Pública.
+- Pasante de Desarrollo de Software en MOOVIT
 - # Contacto
 - Correo electrónico personal: rafagutibarrio@gmail.com
 - Correo institucional: 00073123@uca.edu.sv
@@ -30,6 +31,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - # 🧰 Herramientas e IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -40,6 +42,7 @@
 - # 🔄 Control de versiones
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 - # 🔧 Otras tecnologías relevantes
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
