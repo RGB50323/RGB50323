@@ -12,7 +12,6 @@
 - Pasante de Desarrollo de Software en MOOVIT
 - # Contacto
 - Correo electrónico personal: rafagutibarrio@gmail.com
-- Correo institucional: 00073123@uca.edu.sv
 - Github personal: https://github.com/RGB50323
 - Github institucional: https://github.com/RafaGdelB23
 - Linkedin: https://www.linkedin.com/in/rafael-gutiérrez-035045397
